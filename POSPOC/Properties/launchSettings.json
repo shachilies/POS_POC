@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POSPOC (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "POSPOC (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
