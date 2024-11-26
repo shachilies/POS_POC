@@ -1,1 +1,0 @@
-C:\Projects\POSPOC\POSPOC\POSPOC.csproj;arm64
